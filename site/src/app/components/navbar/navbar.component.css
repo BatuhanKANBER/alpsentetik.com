@@ -1,0 +1,11 @@
+.navbar ul li {
+    margin-right: 10px;
+}
+.navbar ul li a{
+    font-size: large;
+    color: aliceblue;
+}
+
+.navbar ul li a:hover{
+    color:rgb(8, 91, 11) ;
+}

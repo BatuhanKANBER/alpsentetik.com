@@ -1,0 +1,24 @@
+<div class="card">
+    <p-dataView #dv [value]="products" [paginator]="true" [rows]="9" filterBy="name" [sortField]="sortField"
+        [sortOrder]="sortOrder" layout="grid">
+        <ng-template let-product pTemplate="gridItem">
+            <div class="col-12 md:col-4">
+                <div class="product-grid-item card">
+                    <div class="product-grid-item-top">
+                        <div>
+                            <span class="product-category"><h2>{{product.category}}</h2></span>
+                        </div>
+                    </div>
+                    <div class="product-grid-item-content">
+                        <img style="height: 300px; width: 200px;" [src]="product.imageUrl" />
+                        <div class="product-name">{{product.title}}</div>
+                        <div class="product-description">{{product.content}}</div>
+                    </div>
+                    <div class="product-grid-item-bottom">
+                        <span class="product-price">{{product.id}}</span>
+                    </div>
+                </div>
+            </div>
+        </ng-template>
+    </p-dataView>
+</div>

@@ -1,0 +1,9 @@
+.img-fluid {
+    background-color: rgb(8, 91, 11);
+}
+*{
+    user-select: none;
+}
+.about{
+    text-align: center;
+}

@@ -1,0 +1,191 @@
+{
+	"data": [
+		{
+			"id": 1,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/1.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK"
+		},
+		{
+			"id": 2,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/2.jpg",
+			"title":"ALTI KAPALI ÜSTÜ BACALI"
+		},
+		{
+			"id": 3,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/3.jpg",
+			"title":"ALTI BACALI ÜSTÜ AÇIK"
+		},
+		{
+			"id": 4,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/4.jpg",
+			"title":"ALTI BACALI ÜSTÜ BACALI"
+		},
+		{
+			"id": 5,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/5.jpg",
+			"title":"ALTI KAPALI ÜSTÜ ETEK"
+		}
+		,
+		{
+			"id": 6,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/6.jpg",
+			"title":"ALTI BACALI ÜSTÜ ETEK"
+		}
+		,
+		{
+			"id": 7,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/7.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK 4 SAP TAKVİYE KOLONLU"
+		}
+		,
+		{
+			"id": 8,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/8.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK TAKVİYE HALKA KOLONLU"
+		}
+		,
+		{
+			"id": 9,
+			"category":"U PANEL",
+			"imageUrl":"assets/img/9.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK TAKVİYE VİNÇ KOLONLU"
+		}
+		,
+		{
+			"id": 10,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/10.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK CROSS CORNER"
+		}
+		,
+		{
+			"id": 11,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/11.jpg",
+			"title":"ALTI KAPALI ÜSTÜ BACALI CROSS CORNER"
+		}
+		,
+		{
+			"id": 12,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/12.jpg",
+			"title":"ALTI BACALI ÜSTÜ AÇIK CROSS CORNER"
+		}
+		,
+		{
+			"id": 13,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/13.jpg",
+			"title":"ALTI BACALI ÜSTÜ BACALI CROSS CORNER"
+		}
+		,
+		{
+			"id": 14,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/14.jpg",
+			"title":"ALTI KAPALI ÜSTÜ ETEK CROSS CORNER"
+		}
+		,
+		{
+			"id": 15,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/15.jpg",
+			"title":"ALTI BACALI ÜSTÜ ETEK CROSS CORNER"
+		}
+		,
+		{
+			"id": 16,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/16.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK 4 SAP TAKVİYE KOLONLU CROSS CORNER"
+		}
+		,
+		{
+			"id": 17,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/17.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK TAKVİYE HALKA KOLONLU CROSS CORNER"
+		}
+		,
+		{
+			"id": 18,
+			"category":"CROSS CORNER",
+			"imageUrl":"assets/img/18.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK TAKVİYE VİNÇ KOLONLU CROSS CORNER"
+		}
+		,
+		{
+			"id": 19,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/19.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 20,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/20.jpg",
+			"title":"ALTI BACALI ÜSTÜ AÇIK QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 21,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/21.jpg",
+			"title":"ALTI KAPALI ÜSTÜ BACALI QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 22,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/22.jpg",
+			"title":"ALTI BACALI ÜSTÜ BACALI QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 23,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/23.jpg",
+			"title":"ALTI KAPALI ÜSTÜ ETEK QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 24,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/24.jpg",
+			"title":"ALTI BACALI ÜSTÜ ETEK QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 25,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/25.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK 4 SAP TAKVİYE KOLONLU QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 26,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/26.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK TAKVİYE HALKA KOLONLU QBAG CROSS CORNER"
+		}
+		,
+		{
+			"id": 27,
+			"category":"QBAG CROSS CORNER",
+			"imageUrl":"assets/img/27.jpg",
+			"title":"ALTI KAPALI ÜSTÜ AÇIK TAKVİYE VİNÇ KOLONLU QBAG CROSS CORNER"
+		}
+
+
+	]
+
+}
