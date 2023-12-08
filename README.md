@@ -1,4 +1,4 @@
 # alpsentetik.com
-angularjs ile web sitesi
-bu web sitesini yaparken primeng kullanımını öğrendim
-site şuanda yayında https://alpsentetik.net
+Angularjs ile web sitesi.
+Bu web sitesini yaparken Türk yazılım geliştiricilerin geliştirmiş olduğu primeng frameworkü kullanılmıştır.
+
